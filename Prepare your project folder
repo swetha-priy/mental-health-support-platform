@@ -1,0 +1,13 @@
+mental-health-platform/
+│
+├── public/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   └── index.html
+│
+├── server.js
+├── package.json
+├── .env           ← Don’t push this!
+└── .gitignore
